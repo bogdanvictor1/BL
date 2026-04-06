@@ -1,2 +1,2 @@
 # BL
-Recupera chave(s) de recuperação BitLocker via PowerShell e fallback via manage-bde
+Recupera chave de recuperação BitLocker via PowerShell e fallback via manage-bde
